@@ -82,14 +82,6 @@
 - Software Installation & Troubleshooting
 - System Configuration
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=blue-green" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=blue-green" height="180"/>
-</p>
 
 ---
 
